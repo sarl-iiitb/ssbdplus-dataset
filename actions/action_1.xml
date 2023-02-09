@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<video id="action_1">
+   <url>https://www.youtube.com/watch?v=BP0B2ydflMc</url>
+   <behaviours count="5">
+   	  <behaviour id="b_01">		
+         <time>3:5</time>		
+         <category>armflapping</category>		
+      </behaviour>
+	  <behaviour id="b_02">		
+         <time>12:16</time>		
+         <category>armflapping</category>		
+      </behaviour>
+      <behaviour id="b_03">		
+         <time>20:22</time>		
+         <category>armflapping</category>		
+      </behaviour>
+      <behaviour id="b_04">		
+         <time>42:52</time>		
+         <category>armflapping</category>		
+      </behaviour>
+      <behaviour id="b_05">		
+         <time>68:74</time>		
+         <category>armflapping</category>		
+      </behaviour>
+   </behaviours>
+</video>

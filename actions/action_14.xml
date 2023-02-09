@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<video id="action_14">
+   <url>https://www.youtube.com/watch?v=JEYWjVZRzxk</url>
+   <behaviours count="2">
+      <behaviour id="b_01">		
+         <time>0:6</time>		
+         <category>armflapping</category>		
+      </behaviour>
+      <behaviour id="b_02">		
+         <time>18:26</time>		
+         <category>armflapping</category>		
+      </behaviour>
+   </behaviours>
+</video>
