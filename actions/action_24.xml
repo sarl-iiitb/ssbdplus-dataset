@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<video id="action_24">
+   <url>https://www.youtube.com/watch?v=EE-p8Q7AW3Q</url>
+   <behaviours count="3">
+      <behaviour id="b_01">		
+         <time>17:29</time>		
+         <category>headbanging</category>		
+      </behaviour>
+      <behaviour id="b_02">		
+         <time>35:41</time>		
+         <category>headbanging</category>		
+      </behaviour>
+      <behaviour id="b_03">		
+         <time>45:51</time>		
+         <category>headbanging</category>		
+      </behaviour>
+   </behaviours>
+</video>
