@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<video id="action_28">
+   <url>https://www.youtube.com/watch?v=FuiJ8ZRMDEQ</url>
+   <behaviours count="1">
+      <behaviour id="b_01">		
+         <time>9:13</time>		
+         <category>spinning</category>		
+      </behaviour>
+   </behaviours>
+</video>
