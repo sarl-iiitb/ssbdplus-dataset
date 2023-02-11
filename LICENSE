@@ -1,6 +1,6 @@
-MIT License
+License
 
-Copyright (c) 2023 Surgical and Assistive Robotics Lab
+Copyright (c) 2023 Surgical and Assistive Robotics Lab, IIIT Bangalore
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+The SSBDPlus dataset is a collection of URLs of children videos exhibiting
+self-stimulatory ("stimming") behaviours commonly used in autism
+diagnosis.
+These videos, posted by parents/caregivers on public domain websites,
+have been annotated for the stimming behaviours.
+The videos themselves are not distributed as part of the SSBD dataset but
+can be found via the URLs listed in the support documentation.
+All users must respect the Terms of Service of the public domain websites
+that the URLs point to, such as:
+1. YouTube http://www.youtube.com/static?template=terms
