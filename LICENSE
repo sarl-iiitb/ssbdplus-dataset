@@ -2,16 +2,6 @@ License
 
 Copyright (c) 2023 Surgical and Assistive Robotics Lab, IIIT Bangalore
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -30,3 +20,5 @@ can be found via the URLs listed in the support documentation.
 All users must respect the Terms of Service of the public domain websites
 that the URLs point to, such as:
 1. YouTube http://www.youtube.com/static?template=terms
+
+Users of the SSBDPLUS dataset must also agree to the SSBD dataset's license: https://rolandgoecke.files.wordpress.com/2019/11/ssbd_licence.pdf
